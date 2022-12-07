@@ -1,0 +1,2 @@
+# Image-Captioning-Natural-Language-Processing-in-Machine-Learning
+This study aimed to develop a deep neural network encoder-decoder framework in an acceptable image captioning model. All the keywords, text strings, and captions relevant to the source images are processed and transferred through the transformer layers. Finally, the predicted phrases are merged in the 2-layer Transformer-decoder model, which generates a final description of words from the source of data (words from a dataset).
