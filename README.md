@@ -1,3 +1,4 @@
+Image Captioning using Natural Language Processing in Machine Learning
 Introduction
 Image captioning is the process of generating textual descriptions of images. This project aims to implement a machine learning model that can automatically generate captions for images. The model will use natural language processing (NLP) techniques to analyze the image and generate a descriptive caption.
 
